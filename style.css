@@ -1,0 +1,91 @@
+html {
+	background: rgb(252,70,107);
+	background: radial-gradient(circle, rgba(252,70,107,1) 0%, rgba(63,94,251,1) 100%);
+	background-size: cover;
+	text-align: center;
+	font-family: 'Poppins';
+	color: white;
+	font-size: 20px;
+}
+
+a:link, a:visited {
+	color: lightcyan;
+	text-decoration: none;
+}
+
+#jeopardy {
+	font-size: 7vw;
+	font-family: 'Bungee Shade';
+	color: lightcyan;
+	margin-top: 50px;
+	margin-bottom: -30px
+}
+
+h1 {
+	font-size: 40px;
+	font-family: 'Righteous';
+	color: lightcyan;
+}
+
+#filter {
+	font-family: 'Righteous';
+	background: radial-gradient(circle, rgba(252,70,107,1) 0%, rgba(63,94,251,1) 100%);
+}
+
+#form {
+	background-color: rgba(204, 255, 153, 0.3);
+	display: inline-block;
+	text-align: center;
+	padding: 20px 50px 50px 50px;
+	border-radius: 15px;
+	border-style: double;
+	border-width: 8px white;
+}
+
+input, select {
+	background: powderblue;
+	border: 3px inset paleturquoise;
+	border-radius: 10px;
+	font-size: 15px;
+}
+
+input[type='button'] {
+	border: 5px outset paleturquoise;
+	background: white;
+}
+
+#result_heading {
+	color: rgb(255, 219, 77);
+}
+
+#viewFavs {
+	display: inline-block;
+	margin: 20px;
+	background-color: cornflowerblue;
+	color: white;
+	padding: 8px 25px 8px 25px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  display: inline-block;
+  background-color: rgba(204, 255, 153, 0.2);
+  border-radius: 15px;
+  font-size: 15px;
+}
+
+th {
+	background-color: rgb(255, 219, 77);
+	color:rgba(63,94,251,1);
+}
+
+td, th {
+  border: 1px solid paleturquoise;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(204, 255, 153, 0.4);
+}
