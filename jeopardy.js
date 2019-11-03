@@ -191,6 +191,7 @@ function generateTable(data) {
 	}
 
 	results.appendChild(table);
+	window.location = "index.html#root";
 }
 
 function saveToFavorites(element) {
