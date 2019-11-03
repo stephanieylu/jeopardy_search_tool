@@ -1,4 +1,4 @@
-baseURL = "https://jservice.io/api/";
+baseURL = "https://www.jservice.io/api/";
 var favorites = [];
 
 function buildCategoryList() {
