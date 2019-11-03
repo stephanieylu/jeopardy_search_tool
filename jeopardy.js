@@ -1,4 +1,5 @@
-baseURL = "https://jservice.io/api/";
+baseURL = "https://cors-anywhere.herokuapp.com/http://jservice.io/api/";
+	//"https://jservice.io/api/";
 var favorites = [];
 
 function buildCategoryList() {
