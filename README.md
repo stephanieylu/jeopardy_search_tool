@@ -1,5 +1,5 @@
 # Jeopardy Search Tool
-A web application that enables the user to search through a database of 156,800 trivia questions from the Jeopardy! 
+A web application that enables the user to search through a database of 156,800 trivia questions from Jeopardy! 
 
 Try it out here: https://stephanieylu.github.io/jeopardy_search_tool/index.html#root
 
